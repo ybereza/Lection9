@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lection9</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="error">Error</string>
+</resources>
